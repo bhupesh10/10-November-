@@ -1,7 +1,7 @@
 # 10-November-
 My Daily diary
 <div>
-How was my day memorable today ?
+How was my day memorable.
 <div>
 Came from my job 
 <div>
